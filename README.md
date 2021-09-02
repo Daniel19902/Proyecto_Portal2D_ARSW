@@ -22,6 +22,7 @@ Los jugadores tendran que superar una serie de escenarios en la menor cantidad d
 
 * Cada jugador inicia al mismo tiempo.
 * Para completar las salas tendran un tiempo limite.
+* Al completar las salas se les dara una puntuación dependiendo el tiempo que hallan tomado en completar la sala
 * El jugador que no pueda completar la sala su puntuacion sera de 0.
 * Se podra ver el progreso de los demas jugadores.
 
