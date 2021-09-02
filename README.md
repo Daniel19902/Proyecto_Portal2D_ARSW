@@ -15,8 +15,15 @@ que crear o buscar la mejor forma de superar la zona.
 
 ## Descripción
 
-Juego multijugador de plataformas en tercera persona donde se busca completar una serie esenarios en el
-menor tiempo posible.
+Juego multijugador de plataformas en tercera persona donde se podrar jugar con otros jugadores.
+Los jugadores tendran que superar una serie de escenarios en la menor cantidad de tiempo.
+
+## Reglas de Juego
+
+* Cada jugador inicia al mismo tiempo.
+* Para completar las salas tendran un tiempo limite.
+* El jugador que no pueda completar la sala en el tiempo limite era eliminado.
+* Se podra ser el progrese de los demas jugadores.
 
 * ### Personaje principal
     Se mueve libremente por el mapa y cuenta con un arma capaz portales.
