@@ -10,7 +10,7 @@ Proyecto portal 2d multijugador
 
 Portal 2d es un juego de plataformas en tercera persona que consiste en superar una zona
 con diferentes obstaculos, Para superar estos obstaculos cuenta con un arma capa de crear portales,
-para poder transladar objetos o transladarse de un portal a otro, esto de vuelve valioso ya que hay 
+para poder trasladar objetos o trasladarse de un portal a otro, esto de vuelve valioso ya que hay 
 que crear o buscar la mejor forma de superar la zona.
 
 ## Descripción
