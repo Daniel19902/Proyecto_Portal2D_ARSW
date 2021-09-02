@@ -18,11 +18,11 @@ que crear o buscar la mejor forma de superar la zona.
 Juego multijugador de plataformas en tercera persona donde se podrar jugar con otros jugadores.
 Los jugadores tendran que superar una serie de escenarios en la menor cantidad de tiempo.
 
-## Reglas de Juego
+### Reglas de Juego
 
 * Cada jugador inicia al mismo tiempo.
 * Para completar las salas tendran un tiempo limite.
-* El jugador que no pueda completar la sala en el tiempo limite sera eliminado.
+* El jugador que no pueda completar la sala su puntuacion sera de 0.
 * Se podra ver el progreso de los demas jugadores.
 
 * ### Personaje principal
