@@ -59,7 +59,7 @@ objetos o transladarse de un portal a otro.
 ![](img/historias%20de%20usuario.PNG)
 
 ### Diagra de clases BackEnd
-![](img/diagramaBackEnd)
+![](img/diagramaBackEnd.png)
 
 ### Diagrama de componentes
-![](img/componentes)
+![](img/componentes.png)
