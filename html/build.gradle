@@ -4,8 +4,8 @@ gwt {
     minHeapSize="1G"
 
     src = files(file("src/")) // Needs to be in front of "modules" below.
-    modules 'com.mygdx.portal2d.GdxDefinition'
-    devModules 'com.mygdx.portal2d.GdxDefinitionSuperdev'
+    modules 'edu.eci.arsw.portal.GdxDefinition'
+    devModules 'edu.eci.arsw.portal.GdxDefinitionSuperdev'
     project.webAppDirName = 'webapp'
 
     compiler {

@@ -1,9 +1,9 @@
-package com.mygdx.portal2d.client;
+package edu.eci.arsw.portal.client;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.mygdx.portal2d.Portal2dMain;
+import edu.eci.arsw.portal.Portal2dMain;
 
 public class HtmlLauncher extends GwtApplication {
 
